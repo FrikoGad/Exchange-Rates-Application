@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash">Exchange rates</string>
+    <string name="name">Название:</string>
+    <string name="buy">Закупка:</string>
+    <string name="sale">Продажа:</string>
+    <string name="cashless">Cashless</string>
+    <string name="cash">Cash</string>
+</resources>
