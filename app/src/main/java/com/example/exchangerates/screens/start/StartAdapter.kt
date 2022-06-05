@@ -9,6 +9,7 @@ import com.example.exchangerates.R
 import com.example.exchangerates.model.cash.CashItem
 import kotlinx.android.synthetic.main.item_money_layout.view.*
 
+
 class StartAdapter: RecyclerView.Adapter<StartAdapter.StartViewHolder>() {
 
     var listStart = emptyList<CashItem>()

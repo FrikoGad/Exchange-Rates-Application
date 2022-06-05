@@ -15,6 +15,7 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
 class SplashFragment : Fragment() {
+    lateinit var splashFragment: SplashFragment
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
